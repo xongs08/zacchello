@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zacchello/static/css/main.1b358727.css",
+    "main.js": "/zacchello/static/js/main.0d7ea56a.js",
+    "static/js/787.ad44768b.chunk.js": "/zacchello/static/js/787.ad44768b.chunk.js",
+    "index.html": "/zacchello/index.html",
+    "main.1b358727.css.map": "/zacchello/static/css/main.1b358727.css.map",
+    "main.0d7ea56a.js.map": "/zacchello/static/js/main.0d7ea56a.js.map",
+    "787.ad44768b.chunk.js.map": "/zacchello/static/js/787.ad44768b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b358727.css",
+    "static/js/main.0d7ea56a.js"
+  ]
+}
